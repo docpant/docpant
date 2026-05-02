@@ -30,4 +30,6 @@ I am focused on building practical cybersecurity skills and contributing to orga
 
   
 ## Contact
-- <img width="91" height="28" alt="image" src="https://github.com/user-attachments/assets/af258e1a-8261-4932-9c50-b1c7ad8bb85f" />
+- <a href="https://www.linkedin.com/in/varunpant19//">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" />
+</a>
