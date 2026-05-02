@@ -1,16 +1,33 @@
-## Hi there 👋
+## Hi, I'm Varun 👋
 
-<!--
-**docpant/docpant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring cybersecurity professional with a background in Incident Management and IT Service Management (ITSM). I’m currently building my knowledge in security fundamentals, risk assessment, and system protection.
 
-Here are some ideas to get you started:
+I’m focused on developing practical skills and transitioning into cybersecurity roles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Professional Statement
+
+I am an aspiring cybersecurity professional with a background in Incident Management and IT Service Management (ITSM), where I developed strong problem-solving, analytical thinking, and operational support skills. I am particularly interested in cybersecurity because it combines technical knowledge with real-world impact in protecting systems, data, and users from evolving threats.
+
+I value integrity, accountability, and continuous learning, and I approach challenges with a structured and detail-oriented mindset. My strengths include risk awareness, troubleshooting, and the ability to analyze incidents and identify potential vulnerabilities.
+
+I am focused on building practical cybersecurity skills and contributing to organizations by supporting secure operations, improving risk management practices, and helping maintain the confidentiality, integrity, and availability of critical systems and data.
+
+
+## Current Focus
+- Strengthening cybersecurity fundamentals
+- Learning Linux, Python, and system security concepts
+- Building hands-on projects in security analysis
+
+## Background
+- Incident Management
+- IT Service Management (ITSM)
+- Troubleshooting and system support
+- Working with operational processes
+
+  
+## Projects
+- Botium Toys Security Audit (in progress)
+
+  
+## Contact
+- <img width="91" height="28" alt="image" src="https://github.com/user-attachments/assets/af258e1a-8261-4932-9c50-b1c7ad8bb85f" />
