@@ -26,8 +26,8 @@ I am focused on building practical cybersecurity skills and contributing to orga
 
   
 ## Projects
-- Botium Toys Security Audit (in progress)
-
+- [Botium Toys Security Audit](https://github.com/docpant/botium-toys-security-audit)
+Internal IT audit using NIST CSF, including risk assessment, control evaluation, and compliance analysis.
   
 ## Contact
 - <a href="https://www.linkedin.com/in/varunpant19/">
