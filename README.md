@@ -27,10 +27,13 @@ I am focused on building practical cybersecurity skills and contributing to orga
 ## Projects
 
 - [Botium Toys Security Audit](https://github.com/docpant/botium-toys-security-audit)  
-  Case Study-Internal IT audit using NIST CSF, including risk assessment, control evaluation, and compliance analysis.
+  Internal IT audit using NIST CSF, including risk assessment, control evaluation, and compliance analysis.
 
 - [DNS and ICMP Network Analysis](https://github.com/docpant/dns-icmp-network-analysis)  
-  Case Study-Network traffic investigation involving DNS, UDP, and ICMP protocols using tcpdump analysis and incident reporting.  
+  Network traffic investigation involving DNS, UDP, and ICMP protocols using tcpdump analysis and incident reporting.
+
+- [SYN Flood Attack Analysis](https://github.com/docpant/syn-flood-attack-analysis)  
+  Cybersecurity incident investigation involving a TCP SYN flood attack affecting web server availability and network operations.
 
 ## Contact
 - <a href="https://www.linkedin.com/in/varunpant19/">
