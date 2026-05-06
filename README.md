@@ -24,11 +24,14 @@ I am focused on building practical cybersecurity skills and contributing to orga
 - Troubleshooting and system support
 - Working with operational processes
 
-  
 ## Projects
-- [Botium Toys Security Audit](https://github.com/docpant/botium-toys-security-audit)
-Internal IT audit using NIST CSF, including risk assessment, control evaluation, and compliance analysis.
-  
+
+- [Botium Toys Security Audit](https://github.com/docpant/botium-toys-security-audit)  
+  Case Study-Internal IT audit using NIST CSF, including risk assessment, control evaluation, and compliance analysis.
+
+- [DNS and ICMP Network Analysis](https://github.com/docpant/dns-icmp-network-analysis)  
+  Case Study-Network traffic investigation involving DNS, UDP, and ICMP protocols using tcpdump analysis and incident reporting.  
+
 ## Contact
 - <a href="https://www.linkedin.com/in/varunpant19/">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" />
