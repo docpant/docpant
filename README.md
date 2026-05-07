@@ -40,6 +40,9 @@ I am focused on building practical cybersecurity skills and contributing to orga
 
 - [Network Hardening Risk Assessment](https://github.com/docpant/network-hardening-risk-assessment)  
   Security assessment and network hardening analysis involving password security, firewall configurations, and multifactor authentication controls.
+
+- [NIST CSF Incident Response Analysis](https://github.com/docpant/nist-csf-incident-response-analysis)  
+  Incident response and security improvement analysis using the NIST Cybersecurity Framework following a denial of service (DoS) attack.
   
 ## Contact
 - <a href="https://www.linkedin.com/in/varunpant19/">
