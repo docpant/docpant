@@ -35,6 +35,9 @@ I am focused on building practical cybersecurity skills and contributing to orga
 - [SYN Flood Attack Analysis](https://github.com/docpant/syn-flood-attack-analysis)  
   Cybersecurity incident investigation involving a TCP SYN flood attack affecting web server availability and network operations.
 
+- [Brute Force Attack Investigation](https://github.com/docpant/brute-force-attack-investigation)  
+  Security incident investigation involving brute force attacks, malicious website modification, malware delivery, DNS/HTTP analysis, and browser redirection behavior.
+  
 ## Contact
 - <a href="https://www.linkedin.com/in/varunpant19/">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" />
