@@ -37,6 +37,9 @@ I am focused on building practical cybersecurity skills and contributing to orga
 
 - [Brute Force Attack Investigation](https://github.com/docpant/brute-force-attack-investigation)  
   Security incident investigation involving brute force attacks, malicious website modification, malware delivery, DNS/HTTP analysis, and browser redirection behavior.
+
+- [Network Hardening Risk Assessment](https://github.com/docpant/network-hardening-risk-assessment)  
+  Security assessment and network hardening analysis involving password security, firewall configurations, and multifactor authentication controls.
   
 ## Contact
 - <a href="https://www.linkedin.com/in/varunpant19/">
