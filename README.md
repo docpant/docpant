@@ -43,6 +43,9 @@ I am focused on building practical cybersecurity skills and contributing to orga
 
 - [NIST CSF Incident Response Analysis](https://github.com/docpant/nist-csf-incident-response-analysis)  
   Incident response and security improvement analysis using the NIST Cybersecurity Framework following a denial of service (DoS) attack.
+
+- [Linux File Permissions Management](https://github.com/docpant/linux-file-permissions-management)  
+  Linux authorization and access control project involving file permissions, hidden files, chmod, ls -la, and least privilege security practices.
   
 ## Contact
 - <a href="https://www.linkedin.com/in/varunpant19/">
