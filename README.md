@@ -46,8 +46,12 @@ I am focused on building practical cybersecurity skills and contributing to orga
 
 - [Linux File Permissions Management](https://github.com/docpant/linux-file-permissions-management)  
   Linux authorization and access control project involving file permissions, hidden files, chmod, ls -la, and least privilege security practices.
+
+- [SQL Security Investigation](https://github.com/docpant/sql-security-investigation)  
+  SQL-based security investigation project involving login attempt analysis, employee filtering, and security-focused database queries using AND, OR, NOT, and LIKE.
   
 ## Contact
 - <a href="https://www.linkedin.com/in/varunpant19/">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" />
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20" />
 </a>
+
