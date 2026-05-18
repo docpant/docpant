@@ -21,8 +21,7 @@ I am focused on building practical cybersecurity skills and contributing to orga
 ## Background
 - Incident Management
 - IT Service Management (ITSM)
-- Troubleshooting and system support
-- Working with operational processes
+- Troubleshooting and System Support
 
 ## Projects
 
@@ -49,6 +48,9 @@ I am focused on building practical cybersecurity skills and contributing to orga
 
 - [SQL Security Investigation](https://github.com/docpant/sql-security-investigation)  
   SQL-based security investigation project involving login attempt analysis, employee filtering, and security-focused database queries using AND, OR, NOT, and LIKE.
+
+- [Bank Risk Register Assessment](https://github.com/docpant/bank-risk-register-assessment)  
+  Cybersecurity risk assessment project involving likelihood analysis, severity scoring, risk prioritization, and operational risk evaluation for a commercial banking environment.
   
 ## Contact
 - <a href="https://www.linkedin.com/in/varunpant19/">
