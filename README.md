@@ -51,6 +51,9 @@ I am focused on building practical cybersecurity skills and contributing to orga
 
 - [Bank Risk Register Assessment](https://github.com/docpant/bank-risk-register-assessment)  
   Cybersecurity risk assessment project involving likelihood analysis, severity scoring, risk prioritization, and operational risk evaluation for a commercial banking environment.
+
+- [Data Leak Privacy Analysis](https://github.com/docpant/data-leak-privacy-analysis)  
+  Cybersecurity privacy and least privilege analysis project involving data leak investigation, NIST SP 800-53 AC-6 controls, and access control recommendations.
   
 ## Contact
 - <a href="https://www.linkedin.com/in/varunpant19/">
