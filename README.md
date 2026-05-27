@@ -72,6 +72,9 @@ The repository demonstrates practical cybersecurity skills including packet anal
 * [Access Control Security Investigation](https://github.com/docpant/access-control-security-investigation)
   Access control and insider threat investigation involving event log analysis, employee permission auditing, and security mitigation recommendations.
 
+- [USB Baiting Attack Analysis](https://github.com/docpant/usb-baiting-attack-analysis)  
+  Security investigation and attacker mindset analysis involving removable media risks, USB baiting attacks, social engineering, malware delivery techniques, and organizational security controls.
+
 ---
 
 ### Linux and SQL Security Administration
