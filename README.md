@@ -23,43 +23,64 @@ I am focused on building practical cybersecurity skills and contributing to orga
 - IT Service Management (ITSM)
 - Troubleshooting and System Support
 
-## Projects
+# Projects
+## Google Cybersecurity Professional Certificate Portfolio
 
-- [Botium Toys Security Audit](https://github.com/docpant/botium-toys-security-audit)  
-  Internal IT audit using NIST CSF, including risk assessment, control evaluation, and compliance analysis.
+This portfolio contains hands-on cybersecurity projects completed as part of the Google Cybersecurity Professional Certificate program. The projects focus on network analysis, incident response, access control, risk assessment, Linux administration, SQL investigations, and security operations.
 
-- [DNS and ICMP Network Analysis](https://github.com/docpant/dns-icmp-network-analysis)  
+The repository demonstrates practical cybersecurity skills including packet analysis, TCP/IP troubleshooting, DNS investigation, firewall hardening, vulnerability assessment, NIST CSF implementation, and security incident documentation.
+
+---
+
+### Network Security and Traffic Analysis
+
+* [DNS and ICMP Network Analysis](https://github.com/docpant/dns-icmp-network-analysis)
   Network traffic investigation involving DNS, UDP, and ICMP protocols using tcpdump analysis and incident reporting.
 
-- [SYN Flood Attack Analysis](https://github.com/docpant/syn-flood-attack-analysis)  
+* [SYN Flood Attack Analysis](https://github.com/docpant/syn-flood-attack-analysis)
   Cybersecurity incident investigation involving a TCP SYN flood attack affecting web server availability and network operations.
 
-- [Brute Force Attack Investigation](https://github.com/docpant/brute-force-attack-investigation)  
+* [Brute Force Attack Investigation](https://github.com/docpant/brute-force-attack-investigation)
   Security incident investigation involving brute force attacks, malicious website modification, malware delivery, DNS/HTTP analysis, and browser redirection behavior.
 
-- [Network Hardening Risk Assessment](https://github.com/docpant/network-hardening-risk-assessment)  
+---
+
+### Security Auditing and Risk Assessment
+
+* [Botium Toys Security Audit](https://github.com/docpant/botium-toys-security-audit)
+  Internal IT audit using NIST CSF, including risk assessment, control evaluation, and compliance analysis.
+
+* [Network Hardening Risk Assessment](https://github.com/docpant/network-hardening-risk-assessment)
   Security assessment and network hardening analysis involving password security, firewall configurations, and multifactor authentication controls.
 
-- [NIST CSF Incident Response Analysis](https://github.com/docpant/nist-csf-incident-response-analysis)  
-  Incident response and security improvement analysis using the NIST Cybersecurity Framework following a denial of service (DoS) attack.
-
-- [Linux File Permissions Management](https://github.com/docpant/linux-file-permissions-management)  
-  Linux authorization and access control project involving file permissions, hidden files, chmod, ls -la, and least privilege security practices.
-
-- [SQL Security Investigation](https://github.com/docpant/sql-security-investigation)  
-  SQL-based security investigation project involving login attempt analysis, employee filtering, and security-focused database queries using AND, OR, NOT, and LIKE.
-
-- [Bank Risk Register Assessment](https://github.com/docpant/bank-risk-register-assessment)  
+* [Bank Risk Register Assessment](https://github.com/docpant/bank-risk-register-assessment)
   Cybersecurity risk assessment project involving likelihood analysis, severity scoring, risk prioritization, and operational risk evaluation for a commercial banking environment.
-
-- [Data Leak Privacy Analysis](https://github.com/docpant/data-leak-privacy-analysis)  
-  Cybersecurity privacy and least privilege analysis project involving data leak  investigation, NIST SP 800-53 AC-6 controls, and access control recommendations.
-
-- [Access Control Security Investigation](https://github.com/docpant/access-control-security-investigation)  
-  Access control and insider threat investigation involving event log analysis, employee permission auditing, and security mitigation recommendations.
 
 * [Vulnerability Assessment Report](https://github.com/docpant/vulnerability-assessment-report)
   Qualitative vulnerability assessment of a publicly exposed remote database server using NIST SP 800-30 risk analysis principles and remediation strategies.
+
+---
+
+### Incident Response and Security Operations
+
+* [NIST CSF Incident Response Analysis](https://github.com/docpant/nist-csf-incident-response-analysis)
+  Incident response and security improvement analysis using the NIST Cybersecurity Framework following a denial-of-service (DoS) attack.
+
+* [Data Leak Privacy Analysis](https://github.com/docpant/data-leak-privacy-analysis)
+  Cybersecurity privacy and least privilege analysis involving data leak investigation, NIST SP 800-53 AC-6 controls, and access control recommendations.
+
+* [Access Control Security Investigation](https://github.com/docpant/access-control-security-investigation)
+  Access control and insider threat investigation involving event log analysis, employee permission auditing, and security mitigation recommendations.
+
+---
+
+### Linux and SQL Security Administration
+
+* [Linux File Permissions Management](https://github.com/docpant/linux-file-permissions-management)
+  Linux authorization and access control project involving file permissions, hidden files, chmod, ls -la, and least privilege security practices.
+
+* [SQL Security Investigation](https://github.com/docpant/sql-security-investigation)
+  SQL-based security investigation project involving login attempt analysis, employee filtering, and security-focused database queries using AND, OR, NOT, and LIKE.
 
   
 ## Contact
