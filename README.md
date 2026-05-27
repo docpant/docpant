@@ -57,6 +57,10 @@ I am focused on building practical cybersecurity skills and contributing to orga
 
 - [Access Control Security Investigation](https://github.com/docpant/access-control-security-investigation)  
   Access control and insider threat investigation involving event log analysis, employee permission auditing, and security mitigation recommendations.
+
+* [Vulnerability Assessment Report](https://github.com/docpant/vulnerability-assessment-report)
+  Qualitative vulnerability assessment of a publicly exposed remote database server using NIST SP 800-30 risk analysis principles and remediation strategies.
+
   
 ## Contact
 - <a href="https://www.linkedin.com/in/varunpant19/">
