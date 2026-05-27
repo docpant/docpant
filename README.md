@@ -15,7 +15,7 @@ I am focused on building practical cybersecurity skills and contributing to orga
 
 ## Current Focus
 - Strengthening cybersecurity fundamentals
-- Learning Linux, Python, and system security concepts
+- Learning Linux, SQL and system security concepts
 - Building hands-on projects in security analysis
 
 ## Background
@@ -53,7 +53,10 @@ I am focused on building practical cybersecurity skills and contributing to orga
   Cybersecurity risk assessment project involving likelihood analysis, severity scoring, risk prioritization, and operational risk evaluation for a commercial banking environment.
 
 - [Data Leak Privacy Analysis](https://github.com/docpant/data-leak-privacy-analysis)  
-  Cybersecurity privacy and least privilege analysis project involving data leak investigation, NIST SP 800-53 AC-6 controls, and access control recommendations.
+  Cybersecurity privacy and least privilege analysis project involving data leak  investigation, NIST SP 800-53 AC-6 controls, and access control recommendations.
+
+- [Access Control Security Investigation](https://github.com/docpant/access-control-security-investigation)  
+  Access control and insider threat investigation involving event log analysis, employee permission auditing, and security mitigation recommendations.
   
 ## Contact
 - <a href="https://www.linkedin.com/in/varunpant19/">
