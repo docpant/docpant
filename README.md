@@ -75,7 +75,10 @@ The repository demonstrates practical cybersecurity skills including packet anal
 - [USB Baiting Attack Analysis](https://github.com/docpant/usb-baiting-attack-analysis)  
   Security investigation and attacker mindset analysis involving removable media risks, USB baiting attacks, social engineering, malware delivery techniques, and organizational security controls.
 
----
+## Application Security and Threat Modeling
+
+- [PASTA Threat Model Analysis](https://github.com/docpant/pasta-threat-model-analysis)  
+  Threat modeling and application security analysis using the PASTA framework, including attack trees, data flow analysis, vulnerability assessment, and security control recommendations for a sneaker marketplace application.
 
 ### Linux and SQL Security Administration
 
@@ -85,9 +88,14 @@ The repository demonstrates practical cybersecurity skills including packet anal
 * [SQL Security Investigation](https://github.com/docpant/sql-security-investigation)
   SQL-based security investigation project involving login attempt analysis, employee filtering, and security-focused database queries using AND, OR, NOT, and LIKE.
 
-  
+
 ## Contact
 - <a href="https://www.linkedin.com/in/varunpant19/">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20" />
 </a>
+
+- <a href="mailto:varunpant19@outlook.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+  </a>
+</p>
 
