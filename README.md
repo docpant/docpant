@@ -75,12 +75,19 @@ The repository demonstrates practical cybersecurity skills including packet anal
 - [USB Baiting Attack Analysis](https://github.com/docpant/usb-baiting-attack-analysis)  
   Security investigation and attacker mindset analysis involving removable media risks, USB baiting attacks, social engineering, malware delivery techniques, and organizational security controls.
 
+- [Ransomware Incident Handler Journal](https://github.com/docpant/ransomware-incident-journal)  
+  Incident response and ransomware investigation project documenting a phishing-based malware attack against a healthcare clinic using the 5 W’s incident analysis framework, incident timelines, and structured cybersecurity reporting.
+
+---
+
 ## Application Security and Threat Modeling
 
 - [PASTA Threat Model Analysis](https://github.com/docpant/pasta-threat-model-analysis)  
   Threat modeling and application security analysis using the PASTA framework, including attack trees, data flow analysis, vulnerability assessment, and security control recommendations for a sneaker marketplace application.
 
-### Linux and SQL Security Administration
+---
+
+## Linux and SQL Security Administration
 
 * [Linux File Permissions Management](https://github.com/docpant/linux-file-permissions-management)
   Linux authorization and access control project involving file permissions, hidden files, chmod, ls -la, and least privilege security practices.
