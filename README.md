@@ -42,7 +42,9 @@ The repository demonstrates practical cybersecurity skills including packet anal
 
 * [Brute Force Attack Investigation](https://github.com/docpant/brute-force-attack-investigation)
   Security incident investigation involving brute force attacks, malicious website modification, malware delivery, DNS/HTTP analysis, and browser redirection behavior.
-
+  
+* [Wireshark vs tcpdump Analysis](https://github.com/docpant/wireshark-vs-tcpdump-analysis)  
+  Comparative analysis of Wireshark and tcpdump, focusing on packet capture, traffic filtering, protocol inspection, network troubleshooting, and cybersecurity investigation use cases.
 ---
 
 ### Security Auditing and Risk Assessment
