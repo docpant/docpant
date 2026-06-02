@@ -83,6 +83,8 @@ The repository demonstrates practical cybersecurity skills including packet anal
 * [Malware Analysis Using VirusTotal & Pyramid of Pain](https://github.com/docpant/malware-analysis-virustotal-pyramid-of-pain)
   Malware analysis and threat intelligence investigation using VirusTotal, involving IOC identification, malicious file classification, Pyramid of Pain analysis, MITRE ATT&CK mapping, domain and IP reputation analysis, and incident response documentation for the Flagpro/Fragtor malware family.
 
+* [Phishing Alert Investigation](https://github.com/docpant/phishing-alert-investigation)  
+  Security operations investigation involving phishing email analysis, malicious attachment validation, playbook-driven response procedures, and SOC ticket escalation workflows.
 ---
 
 ## Application Security and Threat Modeling
