@@ -80,6 +80,9 @@ The repository demonstrates practical cybersecurity skills including packet anal
 - [Ransomware Incident Handler Journal](https://github.com/docpant/ransomware-incident-journal)  
   Incident response and ransomware investigation project documenting a phishing-based malware attack against a healthcare clinic using the 5 W’s incident analysis framework, incident timelines, and structured cybersecurity reporting.
 
+* [Malware Analysis Using VirusTotal & Pyramid of Pain](https://github.com/YOUR_USERNAME/malware-analysis-virustotal-pyramid-of-pain)
+  Malware analysis and threat intelligence investigation using VirusTotal, involving IOC identification, malicious file classification, Pyramid of Pain analysis, MITRE ATT&CK mapping, domain and IP reputation analysis, and incident response documentation for the Flagpro/Fragtor malware family.
+
 ---
 
 ## Application Security and Threat Modeling
