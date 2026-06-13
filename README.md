@@ -85,6 +85,7 @@ The repository demonstrates practical cybersecurity skills including packet anal
 
 * [Phishing Alert Investigation](https://github.com/docpant/phishing-alert-investigation)  
   Security operations investigation involving phishing email analysis, malicious attachment validation, playbook-driven response procedures, and SOC ticket escalation workflows.
+  
 ---
 
 ## Application Security and Threat Modeling
@@ -102,6 +103,11 @@ The repository demonstrates practical cybersecurity skills including packet anal
 * [SQL Security Investigation](https://github.com/docpant/sql-security-investigation)
   SQL-based security investigation project involving login attempt analysis, employee filtering, and security-focused database queries using AND, OR, NOT, and LIKE.
 
+---
+
+## Programming and Automation
+* [Python IP Allowlist Automation](https://github.com/docpant/python-ip-allowlist-automation)  
+  Python automation project demonstrating secure maintenance of an IP allow list through file handling, list processing, conditional logic, and access control updates.
 
 ## Contact
 - <a href="https://www.linkedin.com/in/varunpant19/">
